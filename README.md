@@ -18,3 +18,5 @@ now to start:
         python run.py
     （2）如果想输出一句话(仅支持英文)，直接执行：
         python run_print.py 'hello world!'
+ 
+<img src="/KevinKeWang/raspberrypi-nokia5110lcd-driver-python/blob/master/IMG1.jpeg?raw=true" alt="IMG1.jpeg">
